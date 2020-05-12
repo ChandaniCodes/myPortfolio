@@ -1,2 +1,2 @@
 # myPortfolio
-using html &amp; css 
+using HTML5 &amp; CSS3
